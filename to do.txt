@@ -1,0 +1,16 @@
+
+=> 1) how to rigster a website copyrhight?
+
+=> 2) Edite my profile picture in @media query
+        - more bigger in desktop
+        - center in mobile & tablette
+
+=> 3) i'm using ScrollReveal script V4 (est ce que j'ai le doit)?
+
+=> 4) add particles in HOME section as a background
+
+=> 5)
+=> 6)
+=> 7)
+=> 8)
+=> 9)
